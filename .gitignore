@@ -1,0 +1,7 @@
+*
+!.gitignore
+!Default*.sublime-keymap
+!Preferences.sublime-settings
+!Package Control.sublime-settings
+!sublime_screenshot.png
+!README.md

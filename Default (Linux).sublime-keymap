@@ -1,0 +1,20 @@
+[
+  {"keys":["ctrl+alt+b"],"command":"move_to","args":{"to":"hardbol","extend":false}},
+  {"keys":["ctrl+alt+b"],"command":"move_to","args":{"to":"hardbol","extend":true},   
+    "context":
+    [
+      { "key": "sbp_emacs_has_mark", "operator": "equal", "operand": true }
+    ]
+  },
+  {"keys":["ctrl+alt+f"],"command":"move_to","args":{"to":"hardeol","extend":false}},
+  {"keys":["ctrl+alt+f"],"command":"move_to","args":{"to":"hardeol","extend":true},
+     "context":
+    [
+      { "key": "sbp_emacs_has_mark", "operator": "equal", "operand": true }
+    ]
+  },
+  {"keys":["ctrl+e"],"command":"toggle_side_bar"},
+  {"keys":["alt+x"],"command":"show_overlay","args":{"overlay":"command_palette"} },
+  {"keys":["alt+d"],"command":"find_under_expand" },
+  {"keys":["ctrl+l"],"command":"show_overlay","args":{"overlay":"goto","text":":"} }
+]
