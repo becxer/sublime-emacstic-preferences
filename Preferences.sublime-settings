@@ -1,40 +1,37 @@
 {
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_style":
+	[
+		"solid",
+		"blinking"
+	],
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"find_selected_text": true,
 	"font_face": "hack",
 	"font_size": 9,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "predawn.sublime-theme",
-    "color_scheme": "Packages/Predawn/predawn.tmTheme",
-
-    "predawn_findreplace_small": true,
-    "predawn_quick_panel_small": true,
-    "predawn_sidebar_xlarge": true,
-    "predawn_tabs_active_underline": true,
-    "predawn_tabs_small": true,
-
-    "always_show_minimap_viewport": true,
-    "draw_minimap_border": true,
-
-    "bold_folder_labels": true,
-    "ensure_newline_at_eof_on_save": true,
-	"fade_fold_buttons": false,
-	"find_selected_text": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"margin": -1,
 	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
 	"shift_tab_unindent": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
 	"word_wrap": true,
-	"wrap_width": 100,
-    "rulers": [ 80 ],
-    "highlight_line": true,
-
-    "caret_style": ["solid", "blinking"],
-    "wide_caret": true
+	"wrap_width": 100
 }
