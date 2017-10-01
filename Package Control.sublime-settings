@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"sublemacspro"
 	],
 	"installed_packages":
 	[
@@ -10,10 +11,12 @@
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"Dracula Color Scheme",
+		"Emacs Pro Essentials",
+		"FileBrowser",
 		"Package Control",
+		"Pretty JSON",
 		"Quick File Creator",
 		"SFTP",
-		"sublemacspro",
 		"SublimeCodeIntel",
 		"SublimeREPL"
 	]

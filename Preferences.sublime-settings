@@ -12,10 +12,11 @@
 	"fade_fold_buttons": false,
 	"find_selected_text": true,
 	"font_face": "hack",
-	"font_size": 9,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"sublemacspro",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
