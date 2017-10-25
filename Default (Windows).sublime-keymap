@@ -21,5 +21,6 @@
   },
   {"keys":["alt+x"],"command":"show_overlay","args":{"overlay":"command_palette"} },
   {"keys":["alt+d"],"command":"find_under_expand" },
+  {"keys":["ctrl+t"],"command":"new_file" },
   {"keys":["ctrl+l"],"command":"show_overlay","args":{"overlay":"goto","text":":"} }
 ]
