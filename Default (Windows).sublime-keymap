@@ -6,6 +6,8 @@
       { "key": "sbp_emacs_has_mark", "operator": "equal", "operand": true }
     ]
   },
+  { "keys": ["home"], "command": "move_to", "args": {"to": "hardbol", "extend": false} },
+  { "keys": ["end"], "command": "move_to", "args": {"to": "hardeol", "extend": false} },
   {"keys":["ctrl+alt+f"],"command":"move_to","args":{"to":"hardeol","extend":false}},
   {"keys":["ctrl+alt+f"],"command":"move_to","args":{"to":"hardeol","extend":true},
      "context":
